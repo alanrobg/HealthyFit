@@ -1,0 +1,6 @@
+Link:
+https://healthyfit123.000webhostapp.com/Obtener_usuarios.php
+
+Resultado:
+
+{"estado":1,"Datos de Usuario: ":[{"cod_usuario":"C0001","email":"marianalopez@gmail.com","contrase\u00f1a":"soyml123","nombre":"Mariana Lopez","edad":"24","sexo":"Femenino","objetivo":"60.00"},{"cod_usuario":"C0002","email":"m.lilianaz@hotmail.com","contrase\u00f1a":"12345671","nombre":"Liliana Marquez","edad":"48","sexo":"Femenino","objetivo":"89.50"},{"cod_usuario":"C0003","email":"yosoyalan@gmail.com","contrase\u00f1a":"a1l1a1n","nombre":"Alan Aguilar","edad":"34","sexo":"Masculino","objetivo":"76.00"},{"cod_usuario":"C0004","email":"kate_2003@gmail.com","contrase\u00f1a":"k293938","nombre":"Kate Castillo","edad":"19","sexo":"Femenino","objetivo":"48.00"},{"cod_usuario":"C0005","email":"gozdieguito@hotmail.com","contrase\u00f1a":"hu1o2nm1","nombre":"Diego Gomez","edad":"41","sexo":"Masculino","objetivo":"80.00"},{"cod_usuario":"C0006","email":"sickandtired@gmail.com","contrase\u00f1a":"tttt11","nombre":"Patricio Perez","edad":"22","sexo":"Masculino","objetivo":"68.50"},{"cod_usuario":"C0007","email":"car_men_med@gmail.com","contrase\u00f1a":"carmen7892","nombre":"Carmen Medina","edad":"56","sexo":"Femenino","objetivo":"65.50"}]}
