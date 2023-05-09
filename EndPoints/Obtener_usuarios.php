@@ -8,7 +8,7 @@ require 'Usuarios.php';
 if ($_SERVER['REQUEST_METHOD'] == 'GET') {
 
     // Manejar petición GET
-    $usuarios = Usuarios::getAll();
+    $usuarios = Usuarios::getById("C0001");
 
     if ($usuarios) {
 
